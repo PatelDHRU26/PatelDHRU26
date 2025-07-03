@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dhru Patel</h1>
 <h3 align="center">A passionate developer | M.Sc (IT) Student | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhru-patel26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dhru-patel26&theme=radical&no-frame=true&margin-w=5" alt="Trophies" />
-</p>
+
 
 - 🌱 I’m currently learning **Power BI, MERN stack, and advanced AI integration**
 
