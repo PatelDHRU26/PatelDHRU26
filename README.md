@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/dhru-patel26/dhru-patel26/blob/main/assets/banner.png" alt="Dhru Patel Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Dhru Patel</h1>
 <h3 align="center">A passionate developer | M.Sc (IT) Student | AI Enthusiast</h3>
