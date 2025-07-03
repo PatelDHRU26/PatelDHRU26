@@ -1,60 +1,62 @@
-
-
 <h1 align="center">Hi 👋, I'm Dhru Patel</h1>
-<h3 align="center">A passionate developer | M.Sc (IT) Student | AI Enthusiast</h3>
-
-
-
-- 🌱 I’m currently learning **Power BI, MERN stack, and advanced AI integration**
-
-- 🧠 I build AI-powered apps, and my recent project is:
-  **Early Detection of Plant Diseases using AI & Image Processing** 🌿🤖
-
-- 💼 I'm actively seeking internships / freelance work in **Full-Stack Development** or **AI/ML**
-
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/dhru-patel26)
-
-- 📫 Reach me at: **dp2622003@gmail.com**
-
-- 🧰 Tech Stack:
-  `Python` `TensorFlow` `OpenCV` `React` `Node.js` `MongoDB` `Express.js` `Streamlit` `Git` `Power BI`
-
-- 🔗 Let's connect:
-  [LinkedIn](https://www.linkedin.com/in/dhru-patel26/) | [GitHub](https://github.com/dhru-patel26)
-
----
-
-### 🚀 Projects Showcase
-
-- 🎯 **AI Job Tracker**
-  - AI-enhanced job tracking with resume feedback & email reminders
-  - Stack: React + Node.js + MongoDB + OpenAI API
-
-- 🌿 **Plant Disease Detection**
-  - Image processing + CNN model to detect leaf diseases
-  - Tools: TensorFlow, OpenCV, Streamlit
-
-- 🫀 **Heart Disease Prediction**
-  - ML model for early prediction based on medical features
-  - Tech: Scikit-Learn, Pandas, Matplotlib
-
----
-
-### 📄 Certifications
-
-- 🎓 Google Cloud: Introduction to Large Language Models
-- 🧪 Vnurture Technologies: Internship in Data Science
-- 🐍 Internsfips: Internship in Python
-
----
-
-### 📝 Blog / Articles
-
-- [How I built an AI-Powered Job Tracker](https://www.linkedin.com/in/dhru-patel26/) *(example – replace with actual link if available)*
-
----
-
-### 🏆 GitHub Stats
+<h3 align="center">AI & MERN Stack Developer | M.Sc (IT)</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhru
+  <img src="https://img.shields.io/badge/AI-Developer-blue" />
+  <img src="https://img.shields.io/badge/MERN-Stack-informational" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✔️-brightgreen" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 M.Sc (IT) student at CHARUSAT University  
+- 💻 Passionate about AI, Machine Learning & Full-Stack Web Development  
+- 🚀 Built 5+ real-world projects using Python, TensorFlow, React.js, MongoDB, OpenCV  
+- 🔭 Currently working on: AI-Powered Job Tracker & Plant Disease Detector  
+- 📫 Reach me at: **dp2622003@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`Python` `JavaScript` `Node.js` `React.js` `Express.js` `MongoDB` `MySQL`  
+`TensorFlow` `Keras` `OpenCV` `HTML` `CSS` `Streamlit`
+
+**Tools:**  
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Netlify`
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Heart Disease Prediction** | ML model for predicting heart disease | Python, Scikit-learn |
+| **Real Estate Price Prediction** | Regression model for housing prices | Python, Pandas |
+| **COVID-19 Detection (CNN)** | Classifies chest X-rays for COVID | TensorFlow, OpenCV |
+| **AI-Powered Job Tracker** | Full-stack app with resume feedback | MERN, OpenAI API |
+| **Plant Disease Detector** | Leaf disease detection AI | TensorFlow, Streamlit |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatelDHRU26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PatelDHRU26&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhru-patel26)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PatelDHRU26)
+
+---
+
+⭐️ *Thank you for visiting my profile! Let's build something amazing together.*
