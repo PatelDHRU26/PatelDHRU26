@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhru Patel</h1>
 <h3 align="center">🚀 AI & MERN Stack Developer | 💻 M.Sc (IT) Student | 🤝 Open to Collaborations</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PatelDHRU26&label=Profile%20views&color=0e75b6&style=flat" alt="PatelDHRU26" />
-</p>
-
 ---
 
 ### 🌟 About Me
