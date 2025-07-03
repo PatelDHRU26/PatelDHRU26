@@ -1,62 +1,78 @@
-<h1 align="center">Hi 👋, I'm Dhru Patel</h1>
-<h3 align="center">AI & MERN Stack Developer | M.Sc (IT)</h3>
+<h1 align="center">Hi there 👋, I'm Dhru Patel</h1>
+<h3 align="center">🚀 AI & MERN Stack Developer | 💻 M.Sc (IT) Student | 🤝 Open to Collaborations</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Developer-blue" />
-  <img src="https://img.shields.io/badge/MERN-Stack-informational" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✔️-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=PatelDHRU26&label=Profile%20views&color=0e75b6&style=flat" alt="PatelDHRU26" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
-- 🎓 M.Sc (IT) student at CHARUSAT University  
-- 💻 Passionate about AI, Machine Learning & Full-Stack Web Development  
-- 🚀 Built  real-world projects using Python, TensorFlow, React.js, MongoDB, OpenCV  
-- 🔭 Currently working on: AI-Powered Job Tracker & Plant Disease Detector  
-- 📫 Reach me at: **dp2622003@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks:**  
-`Python` `JavaScript` `Node.js` `React.js` `Express.js` `MongoDB` `MySQL`  
-`TensorFlow` `Keras` `OpenCV` `HTML` `CSS` `Streamlit`
-
-**Tools:**  
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Netlify`
+🎓 I'm currently pursuing **M.Sc in Information Technology** from CHARUSAT University  
+👨‍💻 Passionate about building intelligent systems and full-stack web apps  
+🛠️ Worked on multiple **AI, ML, and MERN stack projects**  
+📬 Reach me: **dp2622003@gmail.com**
 
 ---
 
-### 📂 Featured Projects
+### 🔧 Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Heart Disease Prediction** | ML model for predicting heart disease | Python, Scikit-learn |
-| **Real Estate Price Prediction** | Regression model for housing prices | Python, Pandas |
-| **COVID-19 Detection (CNN)** | Classifies chest X-rays for COVID | TensorFlow, OpenCV |
-| **AI-Powered Job Tracker** | Full-stack app with resume feedback | MERN, OpenAI API |
-| **Plant Disease Detector** | Leaf disease detection AI | TensorFlow, Streamlit |
+**Languages & Frameworks**  
+`JavaScript` `Python` `Node.js` `React.js` `Express.js` `MongoDB` `MySQL`  
+`TensorFlow` `Keras` `OpenCV` `HTML5` `CSS3` `Streamlit`
+
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Netlify` `Render`
 
 ---
 
-### 📈 GitHub Stats
+### 💡 Projects I'm Proud Of
+
+🚑 **Heart Disease Prediction**  
+💬 ML model to classify risk using Scikit-learn  
+🧠 *Python, Pandas, Scikit-learn, Jupyter*
+
+🏠 **Real Estate Price Prediction**  
+💰 Regression model for property pricing  
+📊 *Python, Pandas, Matplotlib*
+
+🦠 **COVID-19 Detection from X-ray Using CNN**  
+📸 Image classification from chest X-rays  
+🧠 *TensorFlow, OpenCV, Keras*
+
+📝 **AI-Powered Job Tracker**  
+📂 Track applications + AI resume suggestions  
+🌐 *React, Node.js, MongoDB, OpenAI API*
+
+🌿 **Plant Disease Detection Using AI**  
+🌱 Image-based plant leaf diagnosis  
+📲 *TensorFlow, OpenCV, Streamlit*
+
+---
+
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatelDHRU26&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PatelDHRU26&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PatelDHRU26&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelDHRU26&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelDHRU26&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhru-patel26)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PatelDHRU26)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhru-patel26/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/PatelDHRU26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-⭐️ *Thank you for visiting my profile! Let's build something amazing together.*
+> *“Code is the closest thing we have to a superpower.”* 🔥  
+> — Let’s build the future, one line at a time.
+
