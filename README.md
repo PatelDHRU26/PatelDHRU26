@@ -13,7 +13,7 @@
 
 - 🎓 M.Sc (IT) student at CHARUSAT University  
 - 💻 Passionate about AI, Machine Learning & Full-Stack Web Development  
-- 🚀 Built 5+ real-world projects using Python, TensorFlow, React.js, MongoDB, OpenCV  
+- 🚀 Built  real-world projects using Python, TensorFlow, React.js, MongoDB, OpenCV  
 - 🔭 Currently working on: AI-Powered Job Tracker & Plant Disease Detector  
 - 📫 Reach me at: **dp2622003@gmail.com**
 
