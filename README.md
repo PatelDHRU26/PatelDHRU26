@@ -5,9 +5,9 @@
 
 ### 🌟 About Me
 
-🎓 I'm currently pursuing **M.Sc in Information Technology** from CHARUSAT University  
+🎓 I'm  pursuing **M.Sc in Information Technology** from CHARUSAT University  
 👨‍💻 Passionate about building intelligent systems and full-stack web apps  
-🛠️ Worked on multiple **AI, ML, and MERN stack projects**  
+🛠️ Worked on multiple **AI, ML, and FULL-stack projects**  
 📬 Reach me: **dp2622003@gmail.com**
 
 ---
